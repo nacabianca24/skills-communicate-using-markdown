@@ -14,3 +14,6 @@ int main() {
     return 0;
 }
 ```
+- [x] do step 1,2,3
+- [ ] do step 4,5
+- [ ] finish the course
